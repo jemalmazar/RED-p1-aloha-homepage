@@ -619,14 +619,6 @@ input[type="submit"]:focus {
     border-right: 0;
   }
 
-/*      <Product Declarations>      */
-
-  .products-list li {
-    float: left;
-    width: 50%;
-    padding: 0 1.5rem;
-  }
-
 /*      <Subscription Declarations>      */
 
   .sign-up form {
