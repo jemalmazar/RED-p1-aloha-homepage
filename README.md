@@ -1,4 +1,4 @@
-# Aloha Homepage Project
+# RED Academy Project 1 - Aloha Home Page 
 
 View deployed web page at: http://jemalmazar.github.io/red-p1-aloha-homepage/
 
@@ -31,4 +31,4 @@ In week one, we learned basic HTML and CSS structure which was then used to buil
 
 In week two, we built upon what we had learned in addition to learning _Flexbox_, _JavaScript_, and _jQuery_. The original float-based layout was replaced in favour of a Flexbox layout, which also took some time to learn and get used to but is more intuitive than using floats. The addition of jQuery/JavaScript to make the page respond to user interaction was very intriguing. Learning how to navigate the DOM to target the correct elements required some trial and error but was very satisfying to figure out.
 
-Overall, it's mind-blowing to know that the amount we learned in two weeks is enough to make a beautiful looking webpage. 
+Overall, it's mind-blowing to know that the amount we learned in two weeks is enough to make a beautiful looking webpage.
