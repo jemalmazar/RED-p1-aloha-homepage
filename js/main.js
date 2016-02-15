@@ -13,7 +13,7 @@ $(function() {
 
   // Smooth Scroll
 
-  $('a').click(function(){
+  $('.nav-menu a').click(function(){
 
     $('html, body').animate({
         scrollTop: $( $.attr(this, 'href') ).offset().top
@@ -23,7 +23,7 @@ $(function() {
 
   // Subscription Alert
 
-  $('form').on('submit', function(event) {
+  $('.sign-up-form').on('submit', function(event) {
 
      event.preventDefault();
      if ($('input[type="email"]').val().length !== 0 ) {
