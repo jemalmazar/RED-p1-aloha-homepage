@@ -138,7 +138,7 @@ html {
 
 body {
   color: #2d2d2d;
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;;
   font-weight: normal;
   font-style: normal;
 }
@@ -168,7 +168,7 @@ img {
 /*~~~~~~ Fonts ~~~~~~*/
 
 h2 {
-  font-family: 'Playfair_Display';
+  font-family: 'Playfair_Display', sans-serif;
   font-weight: normal;
   font-style: italic;
   font-size: 2.25rem;
@@ -249,7 +249,7 @@ h2 span {
 }
 
 .collection {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-weight: bold;
   font-style: normal;
   font-size: 1.25rem;
@@ -258,7 +258,7 @@ h2 span {
 }
 
 .seasons {
-  font-family: 'Playfair_Display';
+  font-family: 'Playfair_Display', sans-serif;
   font-weight: normal;
   font-style: normal;
   font-size: 2.5rem;
@@ -406,7 +406,7 @@ h2 span {
 }
 
 .product-name {
-  font-family: 'Playfair_Display';
+  font-family: 'Playfair_Display', sans-serif;
   font-size: 1.5rem;
   color: #e2574c;
   padding-bottom: 1.25rem;
@@ -449,7 +449,7 @@ h2 span {
 }
 
 input {
-  font-family: 'Raleway';
+  font-family: 'Raleway', sans-serif;
   font-style: normal;
   font-size: 1rem;
   line-height: 2;
@@ -494,7 +494,7 @@ input[type="submit"]:focus {
 /*      <Footer Declarations>      */
 
 .footer {
-  font-family: 'Playfair_Display';
+  font-family: 'Playfair_Display', sans-serif;
   text-align: center;
   background-color: #242424;
   color: #FFF;
@@ -543,7 +543,7 @@ input[type="submit"]:focus {
 
 .social-media span {
   display: none;
-  font-family: 'Raleway'
+  font-family: 'Raleway', sans-serif;
 }
 
 
