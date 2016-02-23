@@ -4,7 +4,7 @@ View deployed web page at: http://jemalmazar.github.io/RED-p1-aloha-homepage/
 
 **Project Description**
 
-A one-page website that features an image slider, newsletter signup form, and a navigation menu which navigates to multiple sections within the page via smooth scroll.
+A single web page that features an image slider, newsletter signup form, and a navigation menu which navigates to multiple sections within the page via smooth scroll.
 
 **Tools & Methods Used**
 
