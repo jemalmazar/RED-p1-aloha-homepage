@@ -1,6 +1,6 @@
-# RED Academy Project 1 - Aloha Home Page 
+# RED Academy Project 1 - Aloha Home Page
 
-View deployed web page at: http://jemalmazar.github.io/red-p1-aloha-homepage/
+View deployed web page at: http://jemalmazar.github.io/RED-p1-aloha-homepage/
 
 **Project Description**
 
@@ -12,7 +12,7 @@ The following were used to build this page:
 
 - HTML/CSS
 - Flexbox
-- jQuery/JavaScript
+- [jQuery](http://jquery.com/)/JavaScript
 - [bxSlider](http://bxslider.com/) plugin
 - [Smooth scroll](http://stackoverflow.com/questions/7717527/jquery-smooth-scrolling-when-clicking-an-anchor-link) code snippet
 
