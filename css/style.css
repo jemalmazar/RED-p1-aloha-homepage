@@ -289,10 +289,22 @@ h2 span {
   flex-wrap: wrap;
 }
 
+.category-rectangle:before, .category-square:before {
+  content: " ";
+  float: left;
+}
+
+.category-square::before {
+  padding-top: 100%;
+}
+
+.category-rectangle::before {
+  padding-top: 50%;
+}
+
 .category-rectangle {
   display: flex;
   flex: 2 0 100%;
-  height: 12.5rem;
   max-width: 100%;
   border: 4px solid #FFF;
 }
@@ -300,7 +312,6 @@ h2 span {
 .category-square {
   display: flex;
   flex: 1 0 100%;
-  height: 12.5rem;
   max-width: 50%;
   border: 4px solid #FFF;
 }
